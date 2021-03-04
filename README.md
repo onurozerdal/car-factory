@@ -1,6 +1,6 @@
 # Car Factory
 
-This project is simple Car Factory application. Abstract factory design pattern is preferred.
+This project is simple Car Factory application. Abstract factory design pattern is preferred. Unit tests were written.
 
 ### Prerequisites
 1- JDK 11
